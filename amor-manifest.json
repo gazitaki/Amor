@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Amor Bijuteri",
+  "short_name": "Amor",
+  "description": "Amor Bijuteri Toptan Satış",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d3b2e",
+  "theme_color": "#0d3b2e",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/ccj91mKk/MG-20260605-WA0020.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/ccj91mKk/MG-20260605-WA0020.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/ccj91mKk/MG-20260605-WA0020.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
